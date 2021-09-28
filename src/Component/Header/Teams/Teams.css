@@ -1,0 +1,16 @@
+.teams-body{
+    display: grid;
+    grid-template-columns:2fr 1fr;
+    width: auto;
+
+}
+.teams{
+    display: grid;
+    grid-template-columns:repeat(3,1fr);
+
+}
+
+.team-added h4{
+    margin-left: 20px;
+    color:rgb(226, 43, 156);
+}
